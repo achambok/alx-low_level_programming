@@ -4,7 +4,7 @@ Description
 
 This project will teach you on:
 
-How to compile using gcc
+How to compile programs using gcc programming tools
 
 The below is the explanation in C programming language and how to check your code with betty-style
 
