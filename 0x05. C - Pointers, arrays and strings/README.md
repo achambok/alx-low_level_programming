@@ -37,9 +37,9 @@ Data Structures
     - Return value: the pointer to dest
 
 9. Main.H
-    This is a header file that contains function declarations
+    This is a header file that contains function declarations.
 
-    
+
 Author
   achambok :
     Ashley F Chamboko
