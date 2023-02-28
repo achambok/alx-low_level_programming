@@ -1,12 +1,8 @@
-
-// C program for the above approach
 #include <math.h>
 #include <time.h>
 #include <stdio.h>
 #include <stdlib.h>
 
-// Function to randomly generates password
-// of length N
 void randomPasswordGeneration(int N)
 {
     int i = 0;
