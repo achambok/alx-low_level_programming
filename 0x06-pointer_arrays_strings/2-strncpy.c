@@ -4,7 +4,7 @@
  * @dest: This is the output dest
  * @src: This is the input source
  * @n: This is the number of bytes to copy
- *
+ * 
  *Return: Copied string with the number of bytes
  */
 

@@ -1,4 +1,4 @@
-# 0x06. C - More pointers, arrays and strings
+# 0x06. C - More pointers, arrays and strings.
 
 0.	[**0-strcat.c**:](#0-strcatc) Function that concatenates two strings.FYI The standard library provides a similar function <code>strcat</code>. Run <code>man strcat</code> to learn more
 

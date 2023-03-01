@@ -7,7 +7,7 @@
  * @dest: This is the output  dest
  * @src: This is the input src
  * @n: This is the number bytes fro src
- *
+ * - runs code for ALX
  * Return: This is my return
  */
 char *_strncat(char *dest, char *src, int n)

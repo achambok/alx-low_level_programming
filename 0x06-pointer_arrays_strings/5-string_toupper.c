@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * string_toupper - Write a function that changes all lowercase letters of a
- * string to uppercase.
+ * string to uppercase.- runs code for ALX
  *
  * @hi: This is the input string
  *

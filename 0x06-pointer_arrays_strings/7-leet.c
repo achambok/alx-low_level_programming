@@ -3,7 +3,7 @@
 /**
  * leet - Write a function that encodes a string into 1337
  *
- * @changed: This is the input string
+ * @changed: This is the input string - runs code for ALX
  *
  * Return: String converted to 1337
  */

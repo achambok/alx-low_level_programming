@@ -2,7 +2,7 @@
 /**
  * rot13 - Write a function that encodes a string using rot13
  *
- * @hi: This is my input string
+ * @hi: This is my input string - runs code for ALX
  *
  * Return: String converted to rot13
  *

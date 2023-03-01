@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main 
+ * main - runs code for ALX
  * @a: an array of integers
  * @n: the number of elements to swap
  *

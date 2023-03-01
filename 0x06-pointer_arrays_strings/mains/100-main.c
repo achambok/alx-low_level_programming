@@ -1,7 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * main - check the code for Holberton School students.
+ * main - - runs code for ALX
  *
  * Return: Always 0.
  */

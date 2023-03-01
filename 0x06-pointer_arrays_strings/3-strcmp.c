@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strcmp - Write a function that compares two strings.
- *
+ * - runs code for ALX
  * @s1: This is the input string
  * @s2: This is the input string
  *

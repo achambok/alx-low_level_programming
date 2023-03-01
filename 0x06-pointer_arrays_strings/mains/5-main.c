@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main 
+ * main - runs code for ALX
  *
  * Return: Always 0.
  */

@@ -5,7 +5,7 @@
  *
  *@dest: This is the output dest
  *@src: This is the input source
- *
+ * - runs code for ALX
  * Return: This return to dest, that concatenates two strings
  */
 
