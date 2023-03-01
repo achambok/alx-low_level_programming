@@ -1,15 +1,4 @@
-**
- * infinite_add - adds two integers stored as strings
- *
- * @n1: first integer string to add
- * @n2: second integer string to add
- * @r: array to store resulting string in
- * @size_r: size of array r
- *
- * Return: the summed string in r. If r is too small for the result,
- * return 0;
-* /
-    char *infinite_add(char *n1, char *n2, char *r, int size_r)
+char *infinite_add(char *n1, char *n2, char *r, int size_r)
 {
     int carry = 0, index = 0, index2;
     char *s1 = n1, *s2 = n2;
